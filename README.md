@@ -280,7 +280,7 @@ Content-Type: application/json
 
 ```json
 {
-  "student_name": "Rahul Sharma",
+  "student_name": "Dinesh Baidya",
   "student_dob": "2005-05-15",
   "student_address": "Roorkee",
   "student_course": "B.Tech CSE AI/ML",
