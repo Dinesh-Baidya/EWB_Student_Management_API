@@ -1,3 +1,4 @@
+
 # Python
 __pycache__/
 *.py[cod]
@@ -9,6 +10,8 @@ venv/
 
 # Environment / secrets
 .env
+.env.*
+!.env.example
 
 # Local database files (use dummy data for demos)
 *.db
